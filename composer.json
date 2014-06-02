@@ -1,0 +1,14 @@
+{
+    "name": "nordsoftware/yii-ga-reports-api",
+    "description": "Extension for getting reports from Google Analytics Core Reports API",
+    "require": {
+        "google/google-api-php-client": "dev-master"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Danijel Maricic",
+            "email": "danijel.maricic@nordsoftware.com"
+        }
+    ]
+}
